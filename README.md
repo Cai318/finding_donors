@@ -13,6 +13,7 @@ This project requires Python 3 and the following Python libraries to be installe
 - [Pandas](http://pandas.pydata.org)
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
+
 You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
 
 ### Code
